@@ -21,7 +21,7 @@ print('''
 \033[1;92m Recoded By BCA
 GirGiTi
 Telegram:https://t.me/girgitigamingyt
-One line Command:\nsudo python Wifi_Hack/girgiti.py -i wlan0 -K\n
+One line Command:\nsudo python GirGiTi_Wifi_Hack/girgiti.py -i wlan0 -K\n
 For Help Type:\npython Wifi_Hack/girgiti.py --help\033[0m
 ''')
 class NetworkAddress:
