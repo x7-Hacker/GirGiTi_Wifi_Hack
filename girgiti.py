@@ -18,7 +18,7 @@ import csv
 from typing import Dict
 
 print('''
-\033[1;92m Recoded By BCA
+\033[1;92m Recoded By Team Toxic
 GirGiTi
 Telegram:https://t.me/girgitigamingyt
 One line Command:\nsudo python GirGiTi_Wifi_Hack/girgiti.py -i wlan0 -K\n
@@ -1033,7 +1033,7 @@ def die(msg):
 
 def usage():
     return """
-OneShotPin 0.0.2 (c) 2017 rofl0r, modded by BiRi_B@B@
+OneShotPin 0.0.2 (c) 2022 rofl0r, modded by Toxic GirGiTi
 
 %(prog)s <arguments>
 
